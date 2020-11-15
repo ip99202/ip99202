@@ -7,7 +7,7 @@
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ip99202.github.io/)](https://ip99202.github.io/)
-[![Tech Blog Badge](http://img.shields.io/badge/-About%20Me-green?style=flat-square&logo=github&link=https://ip99202.github.io/tabs/about/)](https://ip99202.github.io/tabs/about/)
+[![Tech Blog Badge](http://img.shields.io/badge/-About%20Me-brightgreen?style=flat-square&logo=github&link=https://ip99202.github.io/tabs/about/)](https://ip99202.github.io/tabs/about/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fip99202)](https://hits.seeyoufarm.com) 
 
 
