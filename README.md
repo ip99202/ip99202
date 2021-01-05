@@ -6,10 +6,10 @@
 
 <div align=center>
   
-[](https://img.shields.io/badge/-Java-555555?logo=Java)
-[](https://img.shields.io/badge/-Spring-white?logo=Spring)
-[](https://img.shields.io/badge/-JPA-white?logo=Spring)
-[](https://img.shields.io/badge/-Vue.js-white?logo=Vue.js)
+![](https://img.shields.io/badge/-Java-555555?logo=Java)
+![](https://img.shields.io/badge/-Spring-white?logo=Spring)
+![](https://img.shields.io/badge/-JPA-white?logo=Spring)
+![](https://img.shields.io/badge/-Vue.js-white?logo=Vue.js)
 
   
 <br>
