@@ -6,6 +6,13 @@
 
 <div align=center>
   
+[](https://img.shields.io/badge/-Java-555555?logo=Java)
+[](https://img.shields.io/badge/-Spring-white?logo=Spring)
+[](https://img.shields.io/badge/-JPA-white?logo=Spring)
+[](https://img.shields.io/badge/-Vue.js-white?logo=Vue.js)
+
+  
+<br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ip99202.github.io/)](https://ip99202.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-About%20Me-brightgreen?style=flat-square&link=https://ip99202.github.io/tabs/about/)](https://ip99202.github.io/tabs/about/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fip99202)](https://hits.seeyoufarm.com) 
