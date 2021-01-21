@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/-Java-555555?logo=Java)
 ![](https://img.shields.io/badge/-Spring-white?logo=Spring)
 ![](https://img.shields.io/badge/-JPA-white?logo=Spring)
+![](https://img.shields.io/badge/-Node.js-white?logo=Node.js)
 ![](https://img.shields.io/badge/-Vue.js-white?logo=Vue.js)  
 [![](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ip99202.github.io/)](https://ip99202.github.io/)
 [![](http://img.shields.io/badge/-About%20Me-brightgreen?style=flat-square&link=https://ip99202.github.io/tabs/about/)](https://ip99202.github.io/tabs/about/)
@@ -19,7 +20,6 @@
 
 <!--
 **ip99202/ip99202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://img.shields.io/badge/-Node.js-white?logo=Node.js)
 
 Here are some ideas to get you started:
 
